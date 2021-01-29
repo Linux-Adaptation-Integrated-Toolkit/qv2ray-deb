@@ -6,8 +6,10 @@ test for debian10
 ## usage
 
 download qv2ray deb package.
+
 unzip v2ray-core to ~/.config/qv2ray/vcore
-click to launch qv2ray
+
+click .desktop to launch qv2ray or use 'qv2ray' command line
 
 ## other
 
