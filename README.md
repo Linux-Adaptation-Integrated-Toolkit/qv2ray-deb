@@ -1,6 +1,6 @@
 # qv2ray-deb
 
-copplation for debian10/Deepin20/UBUNTU20.04/LinuxMint20.1等
+copplation for debian10/Deepin20/UBUNTU20.04/LinuxMint20.1 etc.
 test for debian10
 
 ## usage
